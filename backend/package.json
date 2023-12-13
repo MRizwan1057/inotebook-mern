@@ -4,8 +4,8 @@
   "description": "This is my I Note Book Project",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon index.js",
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "react",
