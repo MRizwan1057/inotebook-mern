@@ -1,0 +1,20 @@
+.edits span {
+  cursor: pointer;
+}
+
+.abt-wrp {
+  border-radius: 2rem;
+  /* background: #e0e0e0; */
+  box-shadow: inset 15px 15px 30px #e0e0e0, -15px -15px 30px #fff;
+}
+
+.abtTit {
+  font-size: 1.5rem;
+}
+.titHd {
+  font-size: 1rem;
+  padding: 0.1rem 0;
+}
+.txthd {
+  font-size: 0.8rem;
+}
